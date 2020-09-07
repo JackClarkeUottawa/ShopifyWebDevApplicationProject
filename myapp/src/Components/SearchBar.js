@@ -4,15 +4,12 @@ import Button from "react-bootstrap/Button";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
 
-function simulateNetworkRequest() {
-  return new Promise((resolve) => setTimeout(resolve, 2000));
-}
 function LoadingButton(props) {
   const [isLoading, setLoading] = useState(false);
 
   useEffect(() => {
     if (isLoading) {
-      props.onSearchSubmitted().then(() => {
+      props.onSearchSubmitted(props.value).then(() => {
         setLoading(false);
       });
     }
@@ -31,21 +28,30 @@ function LoadingButton(props) {
   );
 }
 
-export default class SearchBar extends React.Component {
-  render() {
-    return (
-      <Form>
-        <Row>
-          <Col>
-            <Form.Label> Search Bar</Form.Label>
-            <Form.Control placeholder={"search"} />
-          </Col>
-          <Col>
-            <br />
-            <LoadingButton onSearchSubmitted={this.props.onSearchSubmitted} />
-          </Col>
-        </Row>
-      </Form>
-    );
-  }
+export default function SearchBar(props) {
+  const [value, setValue] = useState();
+  const handleChange = (e) => {
+    setValue(e.target.value);
+  };
+  return (
+    <Form>
+      <Row>
+        <Col>
+          <Form.Label> Search Bar</Form.Label>
+          <Form.Control
+            placeholder={"search"}
+            value={value}
+            onChange={handleChange}
+          />
+        </Col>
+        <Col>
+          <br />
+          <LoadingButton
+            onSearchSubmitted={props.onSearchSubmitted}
+            value={value}
+          />
+        </Col>
+      </Row>
+    </Form>
+  );
 }
