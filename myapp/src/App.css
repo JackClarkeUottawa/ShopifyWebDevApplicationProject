@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  background: #BFBFBF;
+  
+}
+
+html {
+  background:#BFBFBF;
+}
+
+.title {
+  margin-bottom: 5rem;
+  margin-top: 5rem;
+  margin-left: 20vw;
+
+  
+}
+
+.Content {
+  
+  
+
+}
+
+.searchCard{
+ 
+
+}
+
+.infoCard{
+  text-align:left;
+  
+}
+
+.pageRow{
+  padding-top:15px;
+}
+
+.col{
+
+}
+
