@@ -7,12 +7,12 @@ import Row from "react-bootstrap/Row";
 function simulateNetworkRequest() {
   return new Promise((resolve) => setTimeout(resolve, 2000));
 }
-function LoadingButton() {
+function LoadingButton(props) {
   const [isLoading, setLoading] = useState(false);
 
   useEffect(() => {
     if (isLoading) {
-      simulateNetworkRequest().then(() => {
+      props.onSearchSubmitted().then(() => {
         setLoading(false);
       });
     }
@@ -42,7 +42,7 @@ export default class SearchBar extends React.Component {
           </Col>
           <Col>
             <br />
-            <LoadingButton> Search </LoadingButton>
+            <LoadingButton onSearchSubmitted={this.props.onSearchSubmitted} />
           </Col>
         </Row>
       </Form>
