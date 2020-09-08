@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80cb0693-6fb5-4bc6-af97-57c0e9a8238c" name="Default Changelist" comment="fixed some conflicts">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/myapp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev_info/apiSearchreturn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev_info/exampleAPIreturn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev_info/exampleAPIreturnShort.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/NominationsList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/SearchBar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/SearchResults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Func/OMDB.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apikey.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1h9aSs8v7rOQzKjPbIsHdh89N9i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.NodeInterpreter" value="/usr/bin/node" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/lib/node_modules/prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/public/dev_info" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80cb0693-6fb5-4bc6-af97-57c0e9a8238c" name="Default Changelist" comment="" />
+      <created>1599425774175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599425774175</updated>
+      <workItem from="1599425775227" duration="149000" />
+      <workItem from="1599480670523" duration="19674000" />
+      <workItem from="1599520442463" duration="5210000" />
+      <workItem from="1599535509988" duration="2730000" />
+    </task>
+    <task id="LOCAL-00001" summary="Started creating the main user interface">
+      <created>1599482958771</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599482958771</updated>
+    </task>
+    <task id="LOCAL-00002" summary="the loading button now makes api requests">
+      <created>1599487298477</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599487298477</updated>
+    </task>
+    <task id="LOCAL-00003" summary="SearchBar now works, api requests work">
+      <created>1599488955541</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599488955541</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Started creating the main user interface" />
+    <MESSAGE value="the loading button now makes api requests" />
+    <MESSAGE value="SearchBar now works, api requests work" />
+    <option name="LAST_COMMIT_MESSAGE" value="SearchBar now works, api requests work" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599480725329">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="418" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599480725329" />
+    <state x="463" y="337" width="994" height="410" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599484642650">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="463" y="337" width="994" height="410" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1599484642650" />
+    <state x="692" y="325" width="534" height="438" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1599481708898">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="692" y="325" width="534" height="438" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1920.1080@0.0.1920.1080" timestamp="1599481708898" />
+    <state x="572" y="299" width="776" height="485" key="MultipleFileMergeDialog" timestamp="1599536130118">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="572" y="299" width="776" height="485" key="MultipleFileMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599536130118" />
+    <state x="471" y="175" width="977" height="734" key="SettingsEditor" timestamp="1599483085891">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="471" y="175" width="977" height="734" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1599483085891" />
+    <state x="555" y="275" width="810" height="533" key="Vcs.Push.Dialog.v2" timestamp="1599538096960">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="275" width="810" height="533" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1599538096960" />
+    <state x="717" y="200" width="484" height="687" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599481881264">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="717" y="200" width="484" height="687" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1599481881264" />
+    <state x="667" y="452" width="585" height="180" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599536125568">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="667" y="452" width="585" height="180" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1599536125568" />
+    <state x="619" y="246" key="run.anything.popup" timestamp="1599484553346">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="619" y="246" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1599484553346" />
+  </component>
+</project>
