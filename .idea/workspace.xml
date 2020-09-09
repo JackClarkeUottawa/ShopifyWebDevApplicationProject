@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4aec8ab-e2d2-408b-983a-856176e76252" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/buildtodocs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/precache-manifest.d960f4ac34321fc903d1822fe903d72b.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,11 @@
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -76,17 +80,29 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="473" y="337" width="974" height="410" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599690199816">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="473" y="337" width="974" height="410" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1599690199816" />
     <state x="684" y="298" key="FileChooserDialogImpl" timestamp="1599425762409">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="684" y="298" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1599425762409" />
+    <state x="421" y="275" width="1077" height="533" key="IDE.errors.dialog" timestamp="1599689503954">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="421" y="275" width="1077" height="533" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599689503954" />
     <state x="581" y="262" width="910" height="734" key="SettingsEditor" timestamp="1599425707319">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="581" y="262" width="910" height="734" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1599425707319" />
-    <state x="555" y="275" width="810" height="533" key="Vcs.Push.Dialog.v2" timestamp="1599688781089">
+    <state x="555" y="275" width="810" height="533" key="Vcs.Push.Dialog.v2" timestamp="1599689327909">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="555" y="275" width="810" height="533" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1599688781089" />
+    <state x="555" y="275" width="810" height="533" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1599689327909" />
+    <state x="640" y="400" width="640" height="283" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1599689274369">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="640" y="400" width="640" height="283" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599689274369" />
   </component>
 </project>
