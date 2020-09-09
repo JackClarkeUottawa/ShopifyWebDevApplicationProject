@@ -4,7 +4,7 @@ export default class Omdb {
   }
   search(searchText) {
     const promise = fetch(
-      "http://www.omdbapi.com/?apikey=" +
+      "https://www.omdbapi.com/?apikey=" +
         this.key +
         "&&s=" +
         searchText +
