@@ -14,7 +14,7 @@ function LoadingButton(props) {
         setLoading(false);
       });
     }
-  }, [isLoading]);
+  }, [isLoading,props,setLoading]);
 
   const handleClick = () => setLoading(true);
 
