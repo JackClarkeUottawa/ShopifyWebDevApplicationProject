@@ -1,63 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="c4aec8ab-e2d2-408b-983a-856176e76252" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/precache-manifest.8cc793a524862fee62428690cdc65698.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.85a47c79.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.85a47c79.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.7918a0be.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.7918a0be.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/del/node_modules/globby/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/del/node_modules/globby/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/del/node_modules/globby/node_modules/pify/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/del/node_modules/globby/node_modules/pify/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/del/node_modules/globby/node_modules/pify/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/del/node_modules/globby/node_modules/pify/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/del/node_modules/globby/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/del/node_modules/globby/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/globby/gitignore.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/globby/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/globby/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/globby/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/globby/license" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/globby/node_modules/ignore/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/globby/node_modules/ignore/ignore.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/globby/node_modules/ignore/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/globby/node_modules/ignore/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/globby/node_modules/pify/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/globby/node_modules/pify/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/globby/node_modules/pify/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/globby/node_modules/pify/license" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/globby/node_modules/pify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/globby/node_modules/pify/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/globby/node_modules/pify/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/globby/node_modules/pify/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/globby/node_modules/slash/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/globby/node_modules/slash/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/globby/node_modules/slash/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/globby/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/globby/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/globby/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/globby/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/SearchBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,12 +20,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/myapp" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -93,36 +37,20 @@
       <updated>1599425497264</updated>
       <workItem from="1599425498908" duration="209000" />
       <workItem from="1599425717011" duration="111000" />
-      <workItem from="1599538612305" duration="1657000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="WindowStateProjectService">
-    <state x="498" y="337" width="924" height="410" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599540100382">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="498" y="337" width="924" height="410" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1599540100382" />
     <state x="684" y="298" key="FileChooserDialogImpl" timestamp="1599425762409">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="684" y="298" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1599425762409" />
-    <state x="581" y="262" width="910" height="734" key="SettingsEditor" timestamp="1599539786096">
+    <state x="581" y="262" width="910" height="734" key="SettingsEditor" timestamp="1599425707319">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="581" y="262" width="910" height="734" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1599539786096" />
+    <state x="581" y="262" width="910" height="734" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1599425707319" />
   </component>
 </project>
